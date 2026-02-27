@@ -16,3 +16,11 @@ I am a CSE AIML student at VIIT Pune with an 8.49 CGPA, specializing in Machine 
 [![](https://visitcount.itsvg.in/api?id=Niranjan1310&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧠 LeetCode & Problem Solving
+Professional problem solver focusing on **C++ and DSA**.
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/niranjanspawar1310?theme=dark&font=Istok%20Web&ext=contest" alt="Niranjan's LeetCode Stats" />
+</p>
+
+[View My Full Profile](https://leetcode.com/u/niranjanspawar1310/)
