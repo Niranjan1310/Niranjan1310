@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a CSE AIML student at VIIT Pune with an 8.49 CGPA, specializing in Machine Learning, Deep Learning, and Generative AI. I have hands-on experience building RAG pipelines using LangChain and deploying high-performance backends with FastAPI. I am proficient in C++ for Data Structures and Algorithms, with a strong foundation in core subjects like DBMS, OS, and Computer Networks. My focus is on creating scalable AI solutions and implementing efficient CI/CD workflows.
+I am a CSE AIML student at VIIT Pune with an 8.66 CGPA, specializing in Machine Learning, Deep Learning, and Generative AI. I have hands-on experience building RAG pipelines using LangChain and deploying high-performance backends with FastAPI. I am proficient in C++ for Data Structures and Algorithms, with a strong foundation in core subjects like DBMS, OS, and Computer Networks. My focus is on creating scalable AI solutions and implementing efficient CI/CD workflows.
 
 
 ## 🌐 Socials:
